@@ -1,0 +1,100 @@
+{
+    "category_id": "C001",
+    "category_name": "Electronics",
+    "description": "Electronic devices and gadgets"
+  }
+  {
+    "category_id": "C002",
+    "category_name": "Clothing",
+    "description": "Apparel and accessories for men, women, and children"
+  }
+  {
+    "category_id": "C003",
+    "category_name": "Home & Kitchen",
+    "description": "Products for the home and kitchen"
+  }
+  {
+    "category_id": "C004",
+    "category_name": "Books",
+    "description": "Books of all genres"
+  }
+  {
+    "category_id": "C005",
+    "category_name": "Beauty & Personal Care",
+    "description": "Products for beauty and personal care"
+  }
+  {
+    "category_id": "C006",
+    "category_name": "Sports & Outdoors",
+    "description": "Sporting goods and outdoor equipment"
+  }
+  {
+    "category_id": "C007",
+    "category_name": "Toys & Games",
+    "description": "Toys and games for children of all ages"
+  }
+  {
+    "category_id": "C008",
+    "category_name": "Health & Household",
+    "description": "Products for health and household needs"
+  }
+  {
+    "category_id": "C009",
+    "category_name": "Grocery & Gourmet Food",
+    "description": "Groceries and gourmet food items"
+  }
+  {
+    "category_id": "C010",
+    "category_name": "Pet Supplies",
+    "description": "Supplies for pets"
+  }
+  {
+    "category_id": "C011",
+    "category_name": "Tools & Home Improvement",
+    "description": "Tools and home improvement supplies"
+  }
+  {
+    "category_id": "C012",
+    "category_name": "Automotive",
+    "description": "Automotive parts and accessories"
+  }
+  {
+    "category_id": "C013",
+    "category_name": "Industrial & Scientific",
+    "description": "Industrial and scientific supplies"
+  }
+  {
+    "category_id": "C014",
+    "category_name": "Office Products",
+    "description": "Office supplies and equipment"
+  }
+  {
+    "category_id": "C015",
+    "category_name": "Musical Instruments",
+    "description": "Musical instruments and accessories"
+  }
+  {
+    "category_id": "C016",
+    "category_name": "Software",
+    "description": "Computer software"
+  }
+  {
+    "category_id": "C017",
+    "category_name": "Video Games",
+    "description": "Video games for all platforms"
+  }
+  {
+    "category_id": "C018",
+    "category_name": "Movies & TV",
+    "description": "Movies and TV shows"
+  }
+  {
+    "category_id": "C019",
+    "category_name": "Arts, Crafts & Sewing",
+    "description": "Supplies for arts, crafts, and sewing"
+  }
+  {
+    "category_id": "C020",
+    "category_name": "Garden & Outdoor",
+    "description": "Products for gardening and outdoor living"
+  }

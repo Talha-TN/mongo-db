@@ -1,0 +1,40 @@
+{"_id":{"$oid":"679936f1f3b7bd1cdfc900fe"},"category_id":"C008","category_name":"Health & Household","description":"Products for health and household needs"}
+{"_id":{"$oid":"679936f1f3b7bd1cdfc900ff"},"category_id":"C009","category_name":"Grocery & Gourmet Food","description":"Groceries and gourmet food items"}
+{"_id":{"$oid":"679936f1f3b7bd1cdfc90100"},"category_id":"C010","category_name":"Pet Supplies","description":"Supplies for pets"}
+{"_id":{"$oid":"679936f1f3b7bd1cdfc90101"},"category_id":"C011","category_name":"Tools & Home Improvement","description":"Tools and home improvement supplies"}
+{"_id":{"$oid":"679936f1f3b7bd1cdfc90102"},"category_id":"C012","category_name":"Automotive","description":"Automotive parts and accessories"}
+{"_id":{"$oid":"679936f1f3b7bd1cdfc90103"},"category_id":"C013","category_name":"Industrial & Scientific","description":"Industrial and scientific supplies"}
+{"_id":{"$oid":"679936f1f3b7bd1cdfc90104"},"category_id":"C014","category_name":"Office Products","description":"Office supplies and equipment"}
+{"_id":{"$oid":"679936f1f3b7bd1cdfc90105"},"category_id":"C004","category_name":"Books","description":"Books of all genres"}
+{"_id":{"$oid":"679936f1f3b7bd1cdfc90106"},"category_id":"C006","category_name":"Sports & Outdoors","description":"Sporting goods and outdoor equipment"}
+{"_id":{"$oid":"679936f1f3b7bd1cdfc90107"},"category_id":"C015","category_name":"Musical Instruments","description":"Musical instruments and accessories"}
+{"_id":{"$oid":"679936f1f3b7bd1cdfc90108"},"category_id":"C016","category_name":"Software","description":"Computer software"}
+{"_id":{"$oid":"679936f1f3b7bd1cdfc90109"},"category_id":"C017","category_name":"Video Games","description":"Video games for all platforms"}
+{"_id":{"$oid":"679936f1f3b7bd1cdfc9010a"},"category_id":"C020","category_name":"Garden & Outdoor","description":"Products for gardening and outdoor living"}
+{"_id":{"$oid":"679936f1f3b7bd1cdfc9010b"},"category_id":"C005","category_name":"Beauty & Personal Care","description":"Products for beauty and personal care"}
+{"_id":{"$oid":"679936f1f3b7bd1cdfc9010c"},"category_id":"C007","category_name":"Toys & Games","description":"Toys and games for children of all ages"}
+{"_id":{"$oid":"679936f1f3b7bd1cdfc9010d"},"category_id":"C001","category_name":"Electronics","description":"Electronic devices and gadgets"}
+{"_id":{"$oid":"679936f1f3b7bd1cdfc9010e"},"category_id":"C019","category_name":"Arts, Crafts & Sewing","description":"Supplies for arts, crafts, and sewing"}
+{"_id":{"$oid":"679936f1f3b7bd1cdfc9010f"},"category_id":"C018","category_name":"Movies & TV","description":"Movies and TV shows"}
+{"_id":{"$oid":"679936f1f3b7bd1cdfc90110"},"category_id":"C002","category_name":"Clothing","description":"Apparel and accessories for men, women, and children"}
+{"_id":{"$oid":"679936f1f3b7bd1cdfc90111"},"category_id":"C003","category_name":"Home & Kitchen","description":"Products for the home and kitchen"}
+{"_id":{"$oid":"679937ab492ebc2e4e5ec8e2"},"category_id":"C004","category_name":"Books","description":"Books of all genres"}
+{"_id":{"$oid":"679937ab492ebc2e4e5ec8e3"},"category_id":"C009","category_name":"Grocery & Gourmet Food","description":"Groceries and gourmet food items"}
+{"_id":{"$oid":"679937ab492ebc2e4e5ec8e4"},"category_id":"C010","category_name":"Pet Supplies","description":"Supplies for pets"}
+{"_id":{"$oid":"679937ab492ebc2e4e5ec8e5"},"category_id":"C002","category_name":"Clothing","description":"Apparel and accessories for men, women, and children"}
+{"_id":{"$oid":"679937ab492ebc2e4e5ec8e6"},"category_id":"C003","category_name":"Home & Kitchen","description":"Products for the home and kitchen"}
+{"_id":{"$oid":"679937ab492ebc2e4e5ec8e7"},"category_id":"C013","category_name":"Industrial & Scientific","description":"Industrial and scientific supplies"}
+{"_id":{"$oid":"679937ab492ebc2e4e5ec8e8"},"category_id":"C012","category_name":"Automotive","description":"Automotive parts and accessories"}
+{"_id":{"$oid":"679937ab492ebc2e4e5ec8e9"},"category_id":"C014","category_name":"Office Products","description":"Office supplies and equipment"}
+{"_id":{"$oid":"679937ab492ebc2e4e5ec8ea"},"category_id":"C015","category_name":"Musical Instruments","description":"Musical instruments and accessories"}
+{"_id":{"$oid":"679937ab492ebc2e4e5ec8eb"},"category_id":"C016","category_name":"Software","description":"Computer software"}
+{"_id":{"$oid":"679937ab492ebc2e4e5ec8ec"},"category_id":"C017","category_name":"Video Games","description":"Video games for all platforms"}
+{"_id":{"$oid":"679937ab492ebc2e4e5ec8ed"},"category_id":"C019","category_name":"Arts, Crafts & Sewing","description":"Supplies for arts, crafts, and sewing"}
+{"_id":{"$oid":"679937ab492ebc2e4e5ec8ee"},"category_id":"C006","category_name":"Sports & Outdoors","description":"Sporting goods and outdoor equipment"}
+{"_id":{"$oid":"679937ab492ebc2e4e5ec8ef"},"category_id":"C008","category_name":"Health & Household","description":"Products for health and household needs"}
+{"_id":{"$oid":"679937ab492ebc2e4e5ec8f0"},"category_id":"C018","category_name":"Movies & TV","description":"Movies and TV shows"}
+{"_id":{"$oid":"679937ab492ebc2e4e5ec8f1"},"category_id":"C020","category_name":"Garden & Outdoor","description":"Products for gardening and outdoor living"}
+{"_id":{"$oid":"679937ab492ebc2e4e5ec8f2"},"category_id":"C007","category_name":"Toys & Games","description":"Toys and games for children of all ages"}
+{"_id":{"$oid":"679937ab492ebc2e4e5ec8f3"},"category_id":"C005","category_name":"Beauty & Personal Care","description":"Products for beauty and personal care"}
+{"_id":{"$oid":"679937ab492ebc2e4e5ec8f4"},"category_id":"C001","category_name":"Electronics","description":"Electronic devices and gadgets"}
+{"_id":{"$oid":"679937ab492ebc2e4e5ec8f5"},"category_id":"C011","category_name":"Tools & Home Improvement","description":"Tools and home improvement supplies"}

@@ -1,0 +1,200 @@
+[{
+    "sales_id": "S001",
+    "product_name": "Laptop",
+    "quantity": 2,
+    "unit_price": 1200,
+    "total_price": 2400,
+    "sales_date": "2023-10-26",
+    "customer_name": "John Doe",
+    "salesperson": "Alice Smith"
+},
+  {
+    "sales_id": "S002",
+    "product_name": "Mouse",
+    "quantity": 5,
+    "unit_price": 25,
+    "total_price": 125,
+    "sales_date": "2023-10-26",
+    "customer_name": "Jane Smith",
+    "salesperson": "Bob Johnson"
+},
+  {
+    "sales_id": "S003",
+    "product_name": "Keyboard",
+    "quantity": 3,
+    "unit_price": 75,
+    "total_price": 225,
+    "sales_date": "2023-10-27",
+    "customer_name": "David Lee",
+    "salesperson": "Charlie Brown"
+},
+  {
+    "sales_id": "S004",
+    "product_name": "Monitor",
+    "quantity": 1,
+    "unit_price": 300,
+    "total_price": 300,
+    "sales_date": "2023-10-27",
+    "customer_name": "Emily Wilson",
+    "salesperson": "Dave Davis"
+},
+  {
+    "sales_id": "S005",
+    "product_name": "Webcam",
+    "quantity": 2,
+    "unit_price": 50,
+    "total_price": 100,
+    "sales_date": "2023-10-28",
+    "customer_name": "Michael Rodriguez",
+    "salesperson": "Eve Garcia"
+},
+  {
+    "sales_id": "S006",
+    "product_name": "Printer",
+    "quantity": 1,
+    "unit_price": 150,
+    "total_price": 150,
+    "sales_date": "2023-10-28",
+    "customer_name": "Sarah Martinez",
+    "salesperson": "Frank Wilson"
+},
+  {
+    "sales_id": "S007",
+    "product_name": "Scanner",
+    "quantity": 1,
+    "unit_price": 100,
+    "total_price": 100,
+    "sales_date": "2023-10-29",
+    "customer_name": "Christopher Robinson",
+    "salesperson": "Grace Moore"
+},
+  {
+    "sales_id": "S008",
+    "product_name": "External Hard Drive",
+    "quantity": 2,
+    "unit_price": 100,
+    "total_price": 200,
+    "sales_date": "2023-10-29",
+    "customer_name": "Jessica Garcia",
+    "salesperson": "Henry Taylor"
+},
+  {
+    "sales_id": "S009",
+    "product_name": "USB Flash Drive",
+    "quantity": 10,
+    "unit_price": 15,
+    "total_price": 150,
+    "sales_date": "2023-10-30",
+    "customer_name": "Matthew Anderson",
+    "salesperson": "Isabella Thomas"
+},
+  {
+    "sales_id": "S010",
+    "product_name": "Laptop Bag",
+    "quantity": 2,
+    "unit_price": 50,
+    "total_price": 100,
+    "sales_date": "2023-10-30",
+    "customer_name": "Ashley Jackson",
+    "salesperson": "Jack White"
+},
+  {
+    "sales_id": "S011",
+    "product_name": "Tablet",
+    "quantity": 3,
+    "unit_price": 300,
+    "total_price": 900,
+    "sales_date": "2023-10-31",
+    "customer_name": "Daniel Harris",
+    "salesperson": "Katherine Martin"
+},
+  {
+    "sales_id": "S012",
+    "product_name": "Smartphone",
+    "quantity": 2,
+    "unit_price": 600,
+    "total_price": 1200,
+    "sales_date": "2023-10-31",
+    "customer_name": "Amanda Thompson",
+    "salesperson": "Liam Garcia"
+},
+  {
+    "sales_id": "S013",
+    "product_name": "Headphones",
+    "quantity": 4,
+    "unit_price": 100,
+    "total_price": 400,
+    "sales_date": "2023-11-01",
+    "customer_name": "Brian Lewis",
+    "salesperson": "Mia Robinson"
+},
+  {
+    "sales_id": "S014",
+    "product_name": "Speakers",
+    "quantity": 2,
+    "unit_price": 150,
+    "total_price": 300,
+    "sales_date": "2023-11-01",
+    "customer_name": "Brittany Clark",
+    "salesperson": "Noah Rodriguez"
+},
+  {
+    "sales_id": "S015",
+    "product_name": "Gaming Console",
+    "quantity": 1,
+    "unit_price": 500,
+    "total_price": 500,
+    "sales_date": "2023-11-02",
+    "customer_name": "Donald King",
+    "salesperson": "Olivia Lewis"
+},
+  {
+    "sales_id": "S016",
+    "product_name": "Gaming Controller",
+    "quantity": 2,
+    "unit_price": 75,
+    "total_price": 150,
+    "sales_date": "2023-11-02",
+    "customer_name": "Elizabeth Wright",
+    "salesperson": "Peter Walker"
+},
+  {
+    "sales_id": "S017",
+    "product_name": "VR Headset",
+    "quantity": 1,
+    "unit_price": 400,
+    "total_price": 400,
+    "sales_date": "2023-11-03",
+    "customer_name": "George Green",
+    "salesperson": "Quinn Allen"
+},
+  {
+    "sales_id": "S018",
+    "product_name": "Smartwatch",
+    "quantity": 2,
+    "unit_price": 200,
+    "total_price": 400,
+    "sales_date": "2023-11-03",
+    "customer_name": "Helen Young",
+    "salesperson": "Robert King"
+},
+  {
+    "sales_id": "S019",
+    "product_name": "Fitness Tracker",
+    "quantity": 3,
+    "unit_price": 100,
+    "total_price": 300,
+    "sales_date": "2023-11-04",
+    "customer_name": "James Scott",
+    "salesperson": "Samantha Adams"
+},
+  {
+    "sales_id": "S020",
+    "product_name": "Wireless Earbuds",
+    "quantity": 5,
+    "unit_price": 75,
+    "total_price": 375,
+    "sales_date": "2023-11-04",
+    "customer_name": "Jennifer Baker",
+    "salesperson": "Thomas Evans"
+}]
